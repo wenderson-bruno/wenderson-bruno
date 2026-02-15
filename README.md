@@ -14,7 +14,7 @@
 
 <td>
 
-<img src="https://github.com/user-attachments/assets/1e8aa545-50cf-497e-a80e-dc2ae8912fd1" width="350">
+<img src="https://github.com/user-attachments/assets/1e8aa545-50cf-497e-a80e-dc2ae8912fd1" width="500">
 
 </td>
 </tr>
