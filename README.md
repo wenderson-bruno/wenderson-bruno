@@ -1,8 +1,9 @@
  WELCOME TO MY PROFILE 👋
----
+ 
 - 📚 I'm Studying front-end
-- 🧠 currently learning JavaScript
-- 🚀 I'm starting my career as a developer.
+- 🧠 currently learning React
+- 📖JavaScript Basic
+- 🚀 I'm starting my career as a developer
 - 🎂 18 years
 ---
 <img 
@@ -35,6 +36,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wenderson-bruno/wenderson-bruno/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wenderson-bruno/wenderson-bruno/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wenderson-bruno/wenderson-bruno/output/github-contribution-grid-snake.svg">
-</picture>
-          
-          
+</picture>         
