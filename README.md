@@ -1,10 +1,25 @@
- WELCOME TO MY PROFILE 👋
- 
-- 📚 I'm Studying front-end
-- 🧠 currently learning React
-- 📖JavaScript Basic
-- 🚀 I'm starting my career as a developer
-- 🎂 18 years
+<table>
+<tr>
+<td>
+
+## WELCOME TO MY PROFILE 👋
+
+- 📚 I'm studying Front-End  
+- 🧠 Currently learning React  
+- 📖 JavaScript Basic  
+- 🚀 Starting my career as a developer  
+- 🎂 18 years  
+
+</td>
+
+<td>
+
+<img src="https://github.com/user-attachments/assets/1e8aa545-50cf-497e-a80e-dc2ae8912fd1" width="350">
+
+</td>
+</tr>
+</table>
+
 ---
 <img 
     align="left" 
@@ -37,3 +52,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wenderson-bruno/wenderson-bruno/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wenderson-bruno/wenderson-bruno/output/github-contribution-grid-snake.svg">
 </picture>         
+
+<p align="center">
+<img src=">
+</p>
