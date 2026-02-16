@@ -43,11 +43,12 @@
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/wenderson-bruno-a5299138b/?locale=en_US)">
+<a href="
+<a href="[https](https://www.linkedin.com/in/wenderson-bruno-a5299138b/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href=":creft294@gmail.com">
+<a href=":mailto:creft294@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
