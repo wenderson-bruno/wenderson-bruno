@@ -5,35 +5,37 @@
 ---
 
 <!-- SOBRE + GIF -->
-<table>
+<table width="100%">
 <tr>
-<td width="50%" style="padding-right:40px;">
+
+<td width="50%" style="padding-right:30px; vertical-align:top;">
 
 ## 👨‍💻 About Me
 
-- 📚 Studying Front-End Development  
-- 🧠 Currently learning React  
-- 📖 JavaScript beginner  
-- 🚀 Starting my career as a developer  
-- 🎂 18 years old  
-- 🇧🇷 From Brazil  
+- Studying Front-End Development  
+- Currently learning React  
+- JavaScript beginner  
+- Starting my career as a developer  
+- 18 years old  
+- From Brazil  
 
 <br>
 
 ## 🚀 My Stack
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right:10px;">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right:10px;">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right:10px;">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github.com/user-attachments/assets/1e8aa545-50cf-497e-a80e-dc2ae8912fd1" width="400">
+<img src="https://github.com/user-attachments/assets/1e8aa545-50cf-497e-a80e-dc2ae8912fd1" width="100%">
 
 </td>
+
 </tr>
 </table>
 
