@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">-About me-</h2>
-<h3>my name is Bruno, i am 18 years old and i am from Brazil. I have been studying Front-End development for 5 months, And I am constantly learning to become a good developer. 🚀</h3>
+<h3>my name is Bruno, i am 18 years old and i am from Brazil. I have been studying Front-End development for 5 months, And I am constantly learning to become so that in the future I can become a full stack developer. 🚀</h3>
 <h4>-currently, i am learning React and JavaScript</h4>
 
 ##
